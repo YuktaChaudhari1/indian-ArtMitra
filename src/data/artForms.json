@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Madhubani Painting",
+    "region": "Bihar",
+    "origin": "Mithila region, practiced since ancient times",
+    "description": "Madhubani is known for intricate patterns and mythological themes, often created during festivals and special occasions. Artists use fingers, twigs, nib pens, and natural dyes.",
+    "materials": "Natural dyes, handmade paper, brushes, twigs, nib-pens",
+    "whyPeopleLove": "People admire Madhubani paintings for their vibrant colors, cultural richness, and ability to narrate stories of gods, nature, and rituals.",
+    "image": "madhubani.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Tanjore Painting",
+    "region": "Tamil Nadu",
+    "origin": "Thanjavur, around the 16th century",
+    "description": "Tanjore paintings are devotional works that feature Hindu gods and goddesses. They are unique because of their rich colors, surface richness, and gold foil decorations.",
+    "materials": "Gold foil, wooden planks, semi-precious stones, vibrant pigments",
+    "whyPeopleLove": "They are loved for their divine feel, grandeur, and the shimmering gold that makes them timeless pieces of devotion.",
+    "image": "tanjore.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Warli Art",
+    "region": "Maharashtra",
+    "origin": "Created by the Warli tribe, over 2,500 years ago",
+    "description": "Warli paintings are tribal arts that use simple geometric shapes to depict daily life, farming, rituals, and dances on mud walls.",
+    "materials": "White pigment (rice paste), bamboo sticks, red ochre background",
+    "whyPeopleLove": "Loved for its simplicity, minimalism, and the way it connects with nature and tribal life.",
+    "image": "warli.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Kalighat Painting",
+    "region": "West Bengal",
+    "origin": "19th century, around Kalighat temple in Kolkata",
+    "description": "Kalighat paintings are bold, expressive, and often satirical. They capture gods, daily life, and even social commentary in minimal backgrounds.",
+    "materials": "Paper, cloth, watercolors, bold brush strokes",
+    "whyPeopleLove": "People love them for their bold lines, simplicity, and social storytelling that feels modern even today.",
+    "image": "kalighat.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Phad Painting",
+    "region": "Rajasthan",
+    "origin": "Ancient scroll painting tradition of Rajasthan",
+    "description": "Phad is a religious scroll painting depicting folk deities like Pabuji and Devnarayan. Long cloth scrolls are painted with vibrant colors and carried by priest-singers.",
+    "materials": "Cloth scroll, natural colors (red, yellow, orange, green, black)",
+    "whyPeopleLove": "Loved for its storytelling style and the way it turns cloth scrolls into moving temples of art.",
+    "image": "phad.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Pattachitra",
+    "region": "Odisha and West Bengal",
+    "origin": "Ancient painting tradition linked with Lord Jagannath",
+    "description": "Pattachitra means 'painting on cloth'. These artworks depict gods, goddesses, and mythological scenes in intricate detailing.",
+    "materials": "Cloth or dried palm leaves, natural pigments, gum",
+    "whyPeopleLove": "People admire the fine detailing, mythological storytelling, and the deep cultural link with temples like Puri Jagannath.",
+    "image": "pattachitra.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Miniature Paintings",
+    "region": "Rajasthan, Mughal courts, Deccan",
+    "origin": "Introduced in the 16th century Mughal courts",
+    "description": "Miniature paintings are small but detailed works, often showing royal courts, battles, and love stories. They flourished under Mughal and Rajput patronage.",
+    "materials": "Paper, ivory, natural colors, gold leaf",
+    "whyPeopleLove": "Loved for their precision, intricate detailing, and royal elegance in a small frame.",
+    "image": "miniature.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Gond Art",
+    "region": "Madhya Pradesh",
+    "origin": "Created by Gond tribal communities",
+    "description": "Gond art uses vibrant colors and dots/lines to create animals, birds, and natural elements with mythical symbolism.",
+    "materials": "Canvas, natural colors, acrylic paints",
+    "whyPeopleLove": "Admired for its vibrant energy, tribal connection, and the way it blends folklore with modern art.",
+    "image": "gond.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Cheriyal Scroll Painting",
+    "region": "Telangana",
+    "origin": "Traditional storytelling scroll painting of Telangana",
+    "description": "These scrolls narrate mythological stories, often used by local storytellers and bards as a backdrop for performances.",
+    "materials": "Khadi cloth, tamarind seed paste, natural colors",
+    "whyPeopleLove": "People love them for their lively narration, folk tradition, and bold use of colors.",
+    "image": "cheriyal.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Kalamkari",
+    "region": "Andhra Pradesh & Telangana",
+    "origin": "Derived from Persian influence, around 3000 years old",
+    "description": "Kalamkari literally means 'pen art'. Artists use a tamarind pen and natural dyes to depict epics like Ramayana and Mahabharata.",
+    "materials": "Cotton fabric, tamarind pen, vegetable dyes",
+    "whyPeopleLove": "Loved for its hand-drawn elegance and deep connection with epics and spirituality.",
+    "image": "kalamkari.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Pichwai Painting",
+    "region": "Rajasthan (Nathdwara)",
+    "origin": "Over 400 years old, associated with Shrinathji temple",
+    "description": "Pichwai paintings are detailed temple hangings depicting Lord Krishna in different moods and seasons.",
+    "materials": "Cloth, natural colors, gold and silver embellishments",
+    "whyPeopleLove": "Adored for their devotional depth, grandeur, and spiritual presence in temples and homes.",
+    "image": "pichwai.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Bhil Art",
+    "region": "Madhya Pradesh, Gujarat, Rajasthan",
+    "origin": "Art of the Bhil tribes",
+    "description": "Bhil paintings use vibrant dots and bright colors to depict festivals, animals, and nature with a folk touch.",
+    "materials": "Natural dyes, canvas, acrylic colors",
+    "whyPeopleLove": "People love Bhil art for its cheerful colors, tribal authenticity, and festive feel.",
+    "image": "bhil.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Kerala Mural",
+    "region": "Kerala",
+    "origin": "Flourished in temples around the 14th century",
+    "description": "Kerala murals adorn temple walls, depicting gods, epics, and mythological tales in bright earthy colors.",
+    "materials": "Natural pigments, lime plastered walls, brushes",
+    "whyPeopleLove": "Loved for their grand scale, spiritual aura, and temple atmosphere they bring.",
+    "image": "kerala_mural.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Manjusha Art",
+    "region": "Bihar",
+    "origin": "Ang region of Bihar, linked to folklore of Bishahari (snake goddess)",
+    "description": "Manjusha paintings are box-like paintings telling the folklore of snakes and deities, characterized by pink, green, and yellow colors.",
+    "materials": "Paper, natural colors, bamboo sticks",
+    "whyPeopleLove": "People admire it for its storytelling tradition, rare style, and vibrant patterns connected to mythology.",
+    "image": "manjusha.jpg"
+  }
+]

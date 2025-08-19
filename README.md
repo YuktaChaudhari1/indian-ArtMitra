@@ -28,12 +28,12 @@ Version Control: Git & GitHub
 
 📂 Project Structure
 ArtMitra/
-│-- public/          # Static files (favicon, images, textures)
+│-- public/ # Static files (favicon, images, etc.)
 │-- src/
-│   │-- components/  # Reusable React components
-│   │-- pages/       # About, FAQ, Contact
-│   │-- assets/      # Art images, logos
-│   └-- App.js       # Main entry point
+│ ├── components/ # Reusable React components
+│ ├── pages/ # About, FAQ, Contact, etc.
+│ ├── assets/ # Images, logos, textures
+│ └── App.js # Main App entry
 │-- package.json
 │-- README.md
 

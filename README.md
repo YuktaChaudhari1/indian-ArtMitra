@@ -54,3 +54,35 @@ npm run dev
 
 Now open 👉 http://localhost:5173/
  (default Vite port).
+
+ 📧 Contact
+
+Author: Yukta Chaudhari
+
+🌐 GitHub: YuktaChaudhari1
+
+## 🌐 Live Demo
+👉 Check out the live app here: [ArtMitra on Netlify](https://artmitra.netlify.app/)
+
+
+<img width="1892" height="873" alt="Screenshot 2025-08-19 210000" src="https://github.com/user-attachments/assets/9cf9f96c-149f-431e-b5e8-5e89de6833f6" />
+
+ <br>
+ <br>
+ 
+<img width="1892" height="871" alt="Screenshot 2025-08-19 210053" src="https://github.com/user-attachments/assets/3e0d2675-f02b-4324-b2d3-0cf9370823c2" />
+
+<br>
+<br>
+<img width="1919" height="875" alt="Screenshot 2025-08-19 210126" src="https://github.com/user-attachments/assets/6d767c78-4d3b-4dcc-9dd3-89a693351c74" />
+
+<br>
+<br>
+<img width="1905" height="868" alt="Screenshot 2025-08-19 210146" src="https://github.com/user-attachments/assets/a23ac7a3-ebe8-470c-b420-18454061b010" />
+
+
+
+
+
+
+
